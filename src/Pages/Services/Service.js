@@ -13,7 +13,7 @@ const Service = ({ service }) => {
             <h1 className='text-center text-xl'>{name}</h1>
             <p className='m-2'>{about}</p>
             <div className='flex justify-end mr-4 p-2'>
-                <button onClick={() => navigate('/')} className='bg-blue-800 text-white border border-fuchsia-300 px-2 md:px-4 md:py-2 rounded shadow-xl hover:bg-blue-700'>CheckOut</button>
+                <button onClick={() => navigate('/checkout')} className='bg-blue-800 text-white border border-fuchsia-300 px-2 md:px-4 md:py-2 rounded shadow-xl hover:bg-blue-700'>CheckOut</button>
             </div>
         </div>
     );

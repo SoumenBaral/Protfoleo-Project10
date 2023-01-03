@@ -6,6 +6,8 @@ import Signup from '../src/Pages/Login/Signup'
 import Blogs from '../src/Pages/Blogs'
 import About from "./Pages/About";
 import Header from "./Pages/Shared/Header";
+import CheckOut from "./Pages/CheckOut";
+import RequireRoute from "./Pages/Shared/RequireRoute";
 function App() {
   return (
     <div>
@@ -18,7 +20,7 @@ function App() {
         <Route path="/signUp" element={<Signup></Signup>}></Route>
         <Route path="/blogs" element={<Blogs></Blogs>}></Route>
         <Route path="/about" element={<About></About>}></Route>
-        <Route></Route>
+        <Route path="/checkout" element={<RequireRoute><CheckOut></CheckOut></RequireRoute>}></Route>
         <Route></Route>
       </Routes>
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import CustomLink from './CustomLink'
-import logo from '../../img/logo.png'
+import logo from '../../img/favicon.ico'
 import { useNavigate } from 'react-router-dom';
 import { useAuthState, useSignOut } from 'react-firebase-hooks/auth';
 import auth from '../firebase.ini';
