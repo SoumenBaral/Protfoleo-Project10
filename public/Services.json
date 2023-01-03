@@ -1,38 +1,38 @@
 [
     {
-      "id": "63b4843a0c380c9b73c1e851",
-      "picture": "http://placehold.it/32x32",
-      "name": "Web portals",
-      "about": "Since 2005, ScienceSoft has created web portals for different audiences: customers, business partners, ecommerce users, patients, vendors, interest-based communities."
+        "id": "63b4843a0c380c9b73c1e851",
+        "picture": "https://i.ibb.co/BVrJbMc/web1.png",
+        "name": "Web portals",
+        "about": "Since 2005, ScienceSoft has created web portals for different audiences: customers, business partners, ecommerce users, patients, vendors, interest-based communities."
     },
     {
-      "id": "63b4843a162868176c58581e",
-      "picture": "Websites",
-      "name": "Simpson Forbes",
-      "about": "Since 2005, ScienceSoft has created web portals for different audiences: customers, business partners, ecommerce users, patients, vendors, interest-based communities."
+        "id": "63b4843a162868176c58581e",
+        "picture": "https://i.ibb.co/nMvxYKh/web2.jpg",
+        "name": "Websites",
+        "about": "Since 2005, ScienceSoft has created web portals for different audiences: customers, business partners, ecommerce users, patients, vendors, interest-based communities."
     },
     {
-      "id": "63b4843a4decef9b10a122d9",
-      "picture": "http://placehold.it/32x32",
-      "name": "Ecommerce",
-      "about": "We create ecommerce solutions for B2C, B2B and marketplace business models. We can smoothly integrate an ecommerce component into your operating web app or launch a new ecommerce presence."
+        "id": "63b4843a4decef9b10a122d9",
+        "picture": "https://i.ibb.co/xFcDj7Y/web3.jpg",
+        "name": "Ecommerce",
+        "about": "We create ecommerce solutions for B2C, B2B and marketplace business models. We can smoothly integrate an ecommerce component into your operating web app or launch a new ecommerce presence."
     },
     {
-      "id": "63b4843ad359f12e7bba1a1a",
-      "picture": "http://placehold.it/32x32",
-      "name": "Web apps",
-      "about": "We build web apps for efficient management of different business activities. We apply smart automation to streamline workflows and integrate corporate systems together for coherent operation."
+        "id": "63b4843ad359f12e7bba1a1a",
+        "picture": "https://i.ibb.co/ZM4rYzy/web4.jpg",
+        "name": "Web apps",
+        "about": "We build web apps for efficient management of different business activities. We apply smart automation to streamline workflows and integrate corporate systems together for coherent operation."
     },
     {
-      "id": "63b4843a87e1e7b232a007a6",
-      "picture": "http://placehold.it/32x32",
-      "name": "Business analysis",
-      "about": "Our business analysts focus on the needs of your target audience to perform requirements engineering and outline the scope of the solution. They also bridge the gap between business stakeholders and an IT team to keep all the involved parties aligned."
+        "id": "63b4843a87e1e7b232a007a6",
+        "picture": "https://i.ibb.co/zPKFkkh/web5.jpg",
+        "name": "Business analysis",
+        "about": "Our business analysts focus on the needs of your target audience to perform requirements engineering and outline the scope of the solution. They also bridge the gap between business stakeholders and an IT team to keep all the involved parties aligned."
     },
     {
-      "id": "63b4843a770f41e212b6a34a",
-      "picture": "http://placehold.it/32x32",
-      "name": "Front-end design and development",
-      "about": "Our web designers closely analyze the user audience to understand their needs and reflect these findings in UI design. Having agreed on the look and feel of a web app with project stakeholders, we bring it to life with front-end coding."
+        "id": "63b4843a770f41e212b6a34a",
+        "picture": "https://i.ibb.co/pwLGx0v/web6.png",
+        "name": "Front-end design and development",
+        "about": "Our web designers closely analyze the user audience to understand their needs and reflect these findings in UI design. Having agreed on the look and feel of a web app with project stakeholders, we bring it to life with front-end coding."
     }
-  ]
+]
