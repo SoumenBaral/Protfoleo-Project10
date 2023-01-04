@@ -9,11 +9,11 @@ const Header = () => {
     const [user] = useAuthState(auth);
     const [signOut] = useSignOut(auth);
     return (
-        <div className='md:flex justify-between bg-slate-200 '>
+        <div className='flex justify-between bg-slate-200 '>
             <div onClick={() => navigate('/')} className='md:ml-14'>
                 <img src={logo} alt="" />
             </div>
-            <div className='md:flex  items-center gap-6 md:text-2xl md:font-semibold'>
+            <div className='flex  items-center gap-2 md:gap-6 md:text-2xl md:font-semibold'>
                 <CustomLink to={'/services'}>Services</CustomLink>
                 <CustomLink to={'/blogs'}>Blogs</CustomLink>
                 <CustomLink to={'/about'}>About</CustomLink>
