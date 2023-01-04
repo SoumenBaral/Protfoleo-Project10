@@ -8,6 +8,7 @@ import About from "./Pages/About";
 import Header from "./Pages/Shared/Header";
 import CheckOut from "./Pages/CheckOut";
 import RequireRoute from "./Pages/Shared/RequireRoute";
+import PageNotFound from "./Pages/PageNotFound";
 function App() {
   return (
     <div>
@@ -21,7 +22,7 @@ function App() {
         <Route path="/blogs" element={<Blogs></Blogs>}></Route>
         <Route path="/about" element={<About></About>}></Route>
         <Route path="/checkout" element={<RequireRoute><CheckOut></CheckOut></RequireRoute>}></Route>
-        <Route></Route>
+        <Route path="*" element={<PageNotFound></PageNotFound>}></Route>
       </Routes>
 
     </div>
